@@ -1,6 +1,6 @@
 # testbox_flutter
 
-A flutter project to test bugs in flutter
+A flutter project to easily detect flaws in flutter
 
 ## Getting Started
 
